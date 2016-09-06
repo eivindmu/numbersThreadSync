@@ -27,5 +27,7 @@ public class SequenceWriter {
       System.out.println("");
       notifyAll();
   }
+  
+  // This should be removed
 
 }
